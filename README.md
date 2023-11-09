@@ -17,8 +17,15 @@ About Me👨‍💻:
     <h3>🔨 Lenguages and Tools:</h3> 
         <div>
         <img src= "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title= "cPlusPlus" alt ="cPlusPlus" width = "40" height = "40" />&nbsp;
+        <img src= "https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain.svg?plain=1" title= "HTML" alt= "HTML" width= "40" height = "40"/>&nbsp
+        <img src= "https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain.svg?plain=1" title= "CSS" alt= "CSS" width= "40" height = "40"/>&nbsp
+        <img src= "https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-plain.svg?plain=1" title= "javaScript" alt= "JavaScript" width= "40" height = "40"/>&nbsp
+        <img src= "https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg?plain=1" title= "react" alt ="React" width= "40" height = "40"/>&nbsp
         </div>
 </div>
 
+
+
+ 
  
  
