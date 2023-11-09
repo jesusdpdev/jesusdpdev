@@ -10,7 +10,7 @@ About Me👨‍💻:
 - 💪Lover of exercise and physical activity 
 - 💻 Ask me about **C++ and JavaScript **
 - 🌐Studying React and creating innovative projects 
-- 💪*My linkedin is [https://www.linkedin.com/in/jes%C3%BAs-depablos-97706a240/]*
+- 📋*My linkedin is [https://www.linkedin.com/in/jes%C3%BAs-depablos-97706a240/]*
 
 <div align="left">
     <h3>🔨 Lenguages and Tools:</h3> 
